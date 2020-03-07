@@ -1,6 +1,5 @@
 @interface SBDockView : UIView
 -(void)didMoveToWindow;
-@property CGFloat dockHeight;
 @end
 
 @interface MTMaterialView : UIView
