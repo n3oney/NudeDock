@@ -1,0 +1,9 @@
+Package: com.neoney.nudedock
+Name: NudeDock
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Remove the background from your dock.
+Maintainer: neoney
+Author: neoney
+Section: Tweaks
